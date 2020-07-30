@@ -1,4 +1,4 @@
 # KSC-assessment
-for joining KSC project
+for joining KST project
 
 i just do my best.. but i cant complete it at all
